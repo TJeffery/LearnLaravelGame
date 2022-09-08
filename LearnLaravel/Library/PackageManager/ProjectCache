@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637982195120000000
+      ticks: 637982336510000000
     m_Hash: 1182264816
   m_LockFileStatus:
     m_FilePath: /Users/travisjeffery/Unity Projects/LearnLaravel/LearnLaravel/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637982195120000000
+      ticks: 637982336510000000
     m_Hash: 1136473549
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}

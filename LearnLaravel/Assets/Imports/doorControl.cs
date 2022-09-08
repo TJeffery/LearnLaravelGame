@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+/// <summary>
+/// This is to manage the door controls
+/// </summary>
 public class doorControl : MonoBehaviour
 {
 
@@ -9,17 +11,13 @@ public class doorControl : MonoBehaviour
     public bool animateTrigger;
     private Animator anim;
     
-    // Start is called before the first frame update
+
     void Start()
     {
         anim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
     private void OnTriggerEnter(Collider other)
     {
         if(other.tag=="Player")
