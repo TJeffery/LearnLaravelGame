@@ -338,11 +338,11 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Imports/cameraControl.cs"
-"Assets/Imports/doorControl.cs"
-"Assets/Imports/JavascriptHook.cs"
-"Assets/Imports/my_player_control.cs"
-"Assets/Imports/PlayerController.cs"
+"Assets/Scripts/cameraControl.cs"
+"Assets/Scripts/doorControl.cs"
+"Assets/Scripts/JavascriptHook.cs"
+"Assets/Scripts/my_player_control.cs"
+"Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 
 /deterministic
